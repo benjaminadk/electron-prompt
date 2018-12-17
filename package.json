@@ -8,9 +8,9 @@
     "string"
   ],
   "author": {
-      "name": "p-sam",
-      "email": "p-sam@users.noreply.github.com",
-      "url": "https://github.com/p-sam"
+    "name": "p-sam",
+    "email": "p-sam@users.noreply.github.com",
+    "url": "https://github.com/p-sam"
   },
   "repository": {
     "type": "git",
@@ -25,7 +25,10 @@
   },
   "xo": {
     "esnext": true,
-    "env": ["node", "browser"]
+    "env": [
+      "node",
+      "browser"
+    ]
   },
   "dependencies": {
     "doc-ready": "^1.0.4"
