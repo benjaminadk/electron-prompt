@@ -1,20 +1,20 @@
 {
-  "name": "electron-prompt",
-  "version": "1.2.0",
-  "description": "Electron helper to prompt for a value via input or select",
+  "name": "electron-prompt-benjaminadk",
+  "version": "1.0.0",
+  "description": "Custom fork of electron-prompt by p-sam",
   "keywords": [
     "electron",
     "prompt",
     "string"
   ],
   "author": {
-    "name": "p-sam",
-    "email": "p-sam@users.noreply.github.com",
-    "url": "https://github.com/p-sam"
+    "name": "benjaminadk",
+    "email": "benjaminadk@gmail.com",
+    "url": "https://github.com/benjaminadk"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/p-sam/electron-prompt.git"
+    "url": "https://github.com/benjaminadk/electron-prompt.git"
   },
   "license": "MIT",
   "main": "lib/index.js",
