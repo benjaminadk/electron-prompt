@@ -1,6 +1,6 @@
 {
   "name": "electron-prompt-benjaminadk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Custom fork of electron-prompt by p-sam",
   "keywords": [
     "electron",
