@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Oswald');
 @import url('https://fonts.googleapis.com/css?family=Inconsolata');
 
 body {
 	line-height: 1.5em;
 	color: #333;
 	background-color: #eee;
+	font-family: 'Inconsolata', Arial, Helvetica, sans-serif;
 }
 
 #container {
@@ -24,7 +24,7 @@ body {
 	max-height: 100%;
 	margin-bottom: 0.8em;
 	padding: 0 0.5em;
-	font-family: 'Oswald', Arial, Helvetica, sans-serif;
+	font-family: 'Inconsolata', Arial, Helvetica, sans-serif;
 }
 
 #data {
@@ -58,7 +58,7 @@ select#data {
 	border-radius: 2px;
 	border: 0;
 	margin: 0 0 0 0.5em;
-	font-family: 'Oswald', Arial, Helvetica, sans-serif;
+	font-family: 'Inconsolata', Arial, Helvetica, sans-serif;
 	font-size: 0.8em;
 	line-height: 1em;
 	padding: 0.6em 1em;
